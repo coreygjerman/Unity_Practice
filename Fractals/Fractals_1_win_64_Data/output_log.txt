@@ -1,0 +1,55 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: ASUS R7 370 Series (ID=0x6811)
+    Vendor:   ATI
+    VRAM:     4075 MB
+    Driver:   15.200.1046.0
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\Unity_Practice\Fractals\Fractals_1_win_64_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\Unity_Practice\Fractals\Fractals_1_win_64_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\Unity_Practice\Fractals\Fractals_1_win_64_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\Unity_Practice\Fractals\Fractals_1_win_64_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\Unity_Practice\Fractals\Fractals_1_win_64_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Unity_Practice\Fractals\Fractals_1_win_64_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\Unity_Practice\Fractals\Fractals_1_win_64_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\Unity_Practice\Fractals\Fractals_1_win_64_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\Unity_Practice\Fractals\Fractals_1_win_64_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading G:\Unity_Practice\Fractals\Fractals_1_win_64_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: G:\Unity_Practice\Fractals\Fractals_1_win_64_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading G:\Unity_Practice\Fractals\Fractals_1_win_64_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: G:\Unity_Practice\Fractals\Fractals_1_win_64_Data\Managed\System.dll (this message is harmless)
+Platform assembly: G:\Unity_Practice\Fractals\Fractals_1_win_64_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.027 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.356171 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 24d8 -> priority: 1 
+  Thread -> id: 39c -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.149462 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 0.273973 ms (FindLiveObjects: 0.025167 ms CreateObjectMapping: 0.013061 ms MarkObjects: 0.186047 ms  DeleteObjects: 0.049060 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.122342 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 0.278434 ms (FindLiveObjects: 0.032494 ms CreateObjectMapping: 0.013698 ms MarkObjects: 0.179994 ms  DeleteObjects: 0.050971 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.235128 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 0.260593 ms (FindLiveObjects: 0.022300 ms CreateObjectMapping: 0.013380 ms MarkObjects: 0.174897 ms  DeleteObjects: 0.049060 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.084118 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 0.260912 ms (FindLiveObjects: 0.022618 ms CreateObjectMapping: 0.012742 ms MarkObjects: 0.174578 ms  DeleteObjects: 0.050334 ms)
+

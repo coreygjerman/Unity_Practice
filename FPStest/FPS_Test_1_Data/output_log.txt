@@ -1,0 +1,42 @@
+Mono path[0] = 'G:/Unity_Practice/FPStest/FPS_Test_1_Data/Managed'
+Mono config path = 'G:/Unity_Practice/FPStest/FPS_Test_1_Data/Mono/etc'
+PlayerConnection initialized from G:/Unity_Practice/FPStest/FPS_Test_1_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55420
+Multi-casting "[IP] 192.168.1.155 [Port] 55420 [Flags] 3 [Guid] 1311341715 [EditorId] 1010949666 [Version] 1048832 [Id] WindowsPlayer(CoreyJG-PC) [Debug] 0" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55420]...
+PlayerConnection accepted from [192.168.1.155] handle:0x264
+Started listening to [0.0.0.0:55420]
+PlayerConnection already initialized - listening to [0.0.0.0:55420]
+Player data archive not found at `G:/Unity_Practice/FPStest/FPS_Test_1_Data/data.unity3d`, using local filesystem
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: ASUS R7 370 Series (ID=0x6811)
+    Vendor:   ATI
+    VRAM:     4075 MB
+    Driver:   15.200.1046.0
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\Unity_Practice\FPStest\FPS_Test_1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\Unity_Practice\FPStest\FPS_Test_1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\Unity_Practice\FPStest\FPS_Test_1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\Unity_Practice\FPStest\FPS_Test_1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\Unity_Practice\FPStest\FPS_Test_1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Unity_Practice\FPStest\FPS_Test_1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\Unity_Practice\FPStest\FPS_Test_1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\Unity_Practice\FPStest\FPS_Test_1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\Unity_Practice\FPStest\FPS_Test_1_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading G:\Unity_Practice\FPStest\FPS_Test_1_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: G:\Unity_Practice\FPStest\FPS_Test_1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading G:\Unity_Practice\FPStest\FPS_Test_1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: G:\Unity_Practice\FPStest\FPS_Test_1_Data\Managed\System.dll (this message is harmless)
+Platform assembly: G:\Unity_Practice\FPStest\FPS_Test_1_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.028 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.456522 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2d00 -> priority: 1 
+  Thread -> id: 2960 -> priority: 1 
+Waiting for finish
